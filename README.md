@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [BVM TPC APP](https://github.com/parthav24/BVM_TPC_APP)
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/mustafakapasi19](https://linktr.ee/mustafakapasi19)
+- 👨‍💻 All of my projects are available at [mustafakapasi19](https://mustafakapasi19.netlify.app/)
 
 - 💬 Ask me about **Full Stack Development and Computer Science**
 

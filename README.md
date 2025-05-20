@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustu19&label=Profile%20views&color=0e75b6&style=flat" alt="mustu19" /> </p>
 
-- 🔭 I’m currently working on [BVM TPC APP](https://github.com/parthav24/BVM_TPC_APP)
+- 🔭 Currently I'm working at [Odoo India](https://github.com/odoo) as a Software Developer.
+  
+- 🔭 Previously I've worked on [BVM TPC APP](https://github.com/parthav24/BVM_TPC_APP)
 
 - 👨‍💻 All of my projects are available at [mustafakapasi19](https://mustafakapasi19.netlify.app/)
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **codewithmustu@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AIDBuoTGqUqJEmY_zMSrTw3y3v8DSrw4/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10_ROgFR0mEUZdYid0NakD2v0OJNynG9d/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
